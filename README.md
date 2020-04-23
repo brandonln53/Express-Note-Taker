@@ -14,4 +14,4 @@ You should see port 3000 running.
 - You will be able to run the application, enter notes, edit notes, and delete notes.
 
 ## Git Repo
-github.com/brandonln53/Express-Note-Taker
+https://github.com/brandonln53/Express-Note-Taker
